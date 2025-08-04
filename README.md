@@ -5,4 +5,9 @@ UI design
 ### Desktop View
 #### Home Page
 ![Desktop Screenshot](screenshots/index.html.png)
+#### Notes Page
+![Desktop Screenshot](screenshots/note.html.png)
+#### Application Page
+![Desktop Screenshot](screenshots/application.html.png)
+
 
