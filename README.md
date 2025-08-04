@@ -4,10 +4,10 @@ UI design
   Here's what the Platform looks like 
 ### Desktop View
 #### Home Page
-![Desktop Screenshot](screenshots/index.html.png)
+![Desktop Screenshot](project/screenshots/index.html.png)
 #### Notes Page
-![Desktop Screenshot](screenshots/note.html.png)
+![Desktop Screenshot](project/screenshots/note.html.png)
 #### Application Page
-![Desktop Screenshot](screenshots/application.html.png)
+![Desktop Screenshot](project/screenshots/application.html.png)
 
 
